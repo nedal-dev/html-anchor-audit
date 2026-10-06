@@ -1,0 +1,8 @@
+/blib/
+/Makefile
+/Makefile.old
+/MYMETA.*
+/pm_to_blib
+/HTML-Anchor-Audit-*/
+/HTML-Anchor-Audit-*.tar.gz
+/HTML-Anchor-Audit-*.zip
